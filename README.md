@@ -8,3 +8,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+  <project path="device/allwinner/eros-p1" name="frol82/twrp_device_allwinner_eros-p1" remote="github" revision="twrp-10" />
